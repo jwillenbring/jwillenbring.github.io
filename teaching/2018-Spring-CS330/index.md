@@ -24,7 +24,7 @@ College of St. Benedict / St. John's University, Spring 2018
 
   * [Syllabus](https://docs.google.com/document/d/1rT2i0Wu8HjuYOffWsWcSy2Schk_U0f1G0kzhzCHCI_M/edit?usp=sharing)
   * [Pro Git book](https://progit2.s3.amazonaws.com/en/2016-01-06-b561b/progit-en.984.pdf)
-  * [Scrum Body of Knowledge book]9http://www.scrumstudy.com/SBOKGuide/download-free-buy-SBOK)
+  * [Scrum Body of Knowledge book](http://www.scrumstudy.com/SBOKGuide/download-free-buy-SBOK)
   
 ### Class Links:
 
