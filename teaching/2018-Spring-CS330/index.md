@@ -30,3 +30,4 @@ College of St. Benedict / St. John's University, Spring 2018
 
   * [Agile Manifesto](http://agilemanifesto.org/)
   * [Principles Behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
+  * [Mountain Goat Scrum overview from 1/18](https://www.mountaingoatsoftware.com/uploads/presentations/English-Redistributable-Intro-Scrum.ppt)
