@@ -40,6 +40,7 @@ College of St. Benedict / St. John's University, Spring 2018
   * [Assignment 1](https://docs.google.com/document/d/1A3nLetRegs6evCSDBRJzgz8DtqXDmCwNA4Lo3mNs8Ok/edit?usp=sharing)
   
 ### Assigned Reading:
+
   (The reading assignment should be completed prior to the date listed.)
   * [Mountain Goat User Story overview - 1/25](https://www.mountaingoatsoftware.com/agile/user-stories)
   * [Mountain Goat User Stories for Requirements - 1/25](https://www.mountaingoatsoftware.com/articles/advantages-of-user-stories-for-requirements)
