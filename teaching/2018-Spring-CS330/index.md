@@ -33,3 +33,10 @@ College of St. Benedict / St. John's University, Spring 2018
   * [Mountain Goat Scrum overview from 1/18](https://www.mountaingoatsoftware.com/uploads/presentations/English-Redistributable-Intro-Scrum.ppt)
   * [Mountain Goat Introduction to User Stories from 1/23](https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories)
   * [XP123 article on good stories and smart tasks from 1/23](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
+  
+  ### Assigned Reading:
+  (The reading assignment should be completed prior to the date listed.)
+  * [Mountain Goat User Story overview - 1/25](https://www.mountaingoatsoftware.com/agile/user-stories)
+  * [Mountain Goat User Stories for Requirements - 1/25](https://www.mountaingoatsoftware.com/articles/advantages-of-user-stories-for-requirements)
+  * [Mountain Goat Non-functional Requirements as User Stories 1/25](https://www.mountaingoatsoftware.com/blog/non-functional-requirements-as-user-stories)
+  
