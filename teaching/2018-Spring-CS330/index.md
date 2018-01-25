@@ -42,6 +42,10 @@ College of St. Benedict / St. John's University, Spring 2018
 ### Assigned Reading:
 
   (The reading assignment should be completed prior to the date listed.)
+  * [SEGUE Agile Acceptance Criteria - 1/30](https://www.seguetech.com/what-characteristics-make-good-agile-acceptance-criteria/)
+  * [Leading Agile Acceptance Criteria - 1/30](https://www.leadingagile.com/2014/09/acceptance-criteria/)
+  * [Agile for Growth Acceptance Criteria Tips and Examples - 1/30](http://agileforgrowth.com/blog/acceptance-criteria-checklist/)
+  * [Existek Acceptance Criteria Tips and Examples 1/30](https://existek.com/blog/what-are-acceptance-criteria/)
   * [Mountain Goat User Story overview - 1/25](https://www.mountaingoatsoftware.com/agile/user-stories)
   * [Mountain Goat User Stories for Requirements - 1/25](https://www.mountaingoatsoftware.com/articles/advantages-of-user-stories-for-requirements)
   * [Mountain Goat Non-functional Requirements as User Stories 1/25](https://www.mountaingoatsoftware.com/blog/non-functional-requirements-as-user-stories)
