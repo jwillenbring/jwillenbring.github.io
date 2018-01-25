@@ -37,6 +37,7 @@ College of St. Benedict / St. John's University, Spring 2018
   
 ### Assignments:
   
+  * [Assignment 2](https://docs.google.com/document/d/1Ycs53TRkT9QI_DIns3zQpjRV1QyF8MLNa-nli_E3AG4/edit?usp=sharing)
   * [Assignment 1](https://docs.google.com/document/d/1A3nLetRegs6evCSDBRJzgz8DtqXDmCwNA4Lo3mNs8Ok/edit?usp=sharing)
   
 ### Assigned Reading:
