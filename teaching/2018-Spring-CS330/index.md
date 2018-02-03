@@ -37,6 +37,7 @@ College of St. Benedict / St. John's University, Spring 2018
   
 ### Assignments:
 
+  * [Week of 2/6, part 1 (team effort)](https://docs.google.com/document/d/1tBvBdat4ed733REYO-G7vf9TCRedSBalI1-yD2-Ql9Y/edit?usp=sharing)
   * [Assignment 4](https://docs.google.com/document/d/1yVoDU3Cr5I6UdifJUDVFdZQk2ccgquESmWWw76RE7Gs/edit?usp=sharing)
   * [Assignment 3](https://docs.google.com/document/d/1H5yB4RRquzRVuXMq6Uv0JUHTwefB0l9FCqGbqpV3xIA/edit?usp=sharing)
   * [Assignment 2](https://docs.google.com/document/d/1Ycs53TRkT9QI_DIns3zQpjRV1QyF8MLNa-nli_E3AG4/edit?usp=sharing)
@@ -45,6 +46,7 @@ College of St. Benedict / St. John's University, Spring 2018
 ### Assigned Reading:
 
   (The reading assignment should be completed prior to the date listed.)
+  * [Agile Alliance Definition of Done - 2/8](https://www.agilealliance.org/definition-done-user-stories/)
   * [SEGUE Agile Acceptance Criteria - 1/30](https://www.seguetech.com/what-characteristics-make-good-agile-acceptance-criteria/)
   * [Leading Agile Acceptance Criteria - 1/30](https://www.leadingagile.com/2014/09/acceptance-criteria/)
   * [Agile for Growth Acceptance Criteria Tips and Examples - 1/30](http://agileforgrowth.com/blog/acceptance-criteria-checklist/)
