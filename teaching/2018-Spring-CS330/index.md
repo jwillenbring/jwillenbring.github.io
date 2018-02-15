@@ -47,6 +47,7 @@ College of St. Benedict / St. John's University, Spring 2018
 ### Assigned Reading:
 
   (The reading assignment should be completed prior to the date listed.)
+  * [Splitting a Story into Tasks 2/20](http://agilebutpragmatic.blogspot.com/2012/04/splitting-story-into-tasks-how-to-write.html)
   * [Agile Alliance Definition of Done - 2/8](https://www.agilealliance.org/definition-done-user-stories/)
   * [SEGUE Agile Acceptance Criteria - 1/30](https://www.seguetech.com/what-characteristics-make-good-agile-acceptance-criteria/)
   * [Leading Agile Acceptance Criteria - 1/30](https://www.leadingagile.com/2014/09/acceptance-criteria/)
