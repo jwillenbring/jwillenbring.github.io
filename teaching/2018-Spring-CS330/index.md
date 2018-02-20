@@ -34,6 +34,7 @@ College of St. Benedict / St. John's University, Spring 2018
   * [Mountain Goat Scrum overview from 1/18](https://www.mountaingoatsoftware.com/uploads/presentations/English-Redistributable-Intro-Scrum.ppt)
   * [Mountain Goat Introduction to User Stories from 1/23](https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories)
   * [XP123 article on good stories and smart tasks from 1/23](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
+  * [Design pattern introduction](https://www.slideshare.net/abhisheksagi/design-patterns-10468437)
   
 ### Assignments:
 
