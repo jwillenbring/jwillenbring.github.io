@@ -35,6 +35,8 @@ College of St. Benedict / St. John's University, Spring 2018
   * [Mountain Goat Introduction to User Stories from 1/23](https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories)
   * [XP123 article on good stories and smart tasks from 1/23](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
   * [Design pattern introduction](https://www.slideshare.net/abhisheksagi/design-patterns-10468437)
+  * [CollabNet Sprint Review Meeting video](https://www.youtube.com/watch?v=cbJinz6TieI)
+  * [CollabNet Sprint Retrospective Meeting video](https://www.youtube.com/watch?v=rZ8I0ATrauM)
   
 ### Assignments:
 
@@ -45,9 +47,11 @@ College of St. Benedict / St. John's University, Spring 2018
   * [Assignment 2](https://docs.google.com/document/d/1Ycs53TRkT9QI_DIns3zQpjRV1QyF8MLNa-nli_E3AG4/edit?usp=sharing)
   * [Assignment 1](https://docs.google.com/document/d/1A3nLetRegs6evCSDBRJzgz8DtqXDmCwNA4Lo3mNs8Ok/edit?usp=sharing)
   
-### Assigned Reading:
+### Assigned Reading/Viewing:
 
-  (The reading assignment should be completed prior to the date listed.)
+  (The reading/video assignment should be completed prior to the date listed.)
+  * [CollabNet Sprint Planning Meeting video - 3/15](https://www.youtube.com/watch?v=wPvG9NZNUa4)
+  * [CollabNet Backlog Refinement Meeting video - 3/13](https://www.youtube.com/watch?v=b_WeHcZcx1w)
   * [Splitting a Story into Tasks - 2/20](http://agilebutpragmatic.blogspot.com/2012/04/splitting-story-into-tasks-how-to-write.html)
   * [Agile Alliance Definition of Done - 2/8](https://www.agilealliance.org/definition-done-user-stories/)
   * [SEGUE Agile Acceptance Criteria - 1/30](https://www.seguetech.com/what-characteristics-make-good-agile-acceptance-criteria/)
