@@ -37,6 +37,7 @@ College of St. Benedict / St. John's University, Spring 2018
   * [Design pattern introduction](https://www.slideshare.net/abhisheksagi/design-patterns-10468437)
   * [CollabNet Sprint Review Meeting video](https://www.youtube.com/watch?v=cbJinz6TieI)
   * [CollabNet Sprint Retrospective Meeting video](https://www.youtube.com/watch?v=rZ8I0ATrauM)
+  * [PDCA Process Checklist presentation](https://drive.google.com/open?id=1hiaJ49tem0HYaEm4ggLuAwkxgYQnEDLs)
   
 ### Assignments:
 
