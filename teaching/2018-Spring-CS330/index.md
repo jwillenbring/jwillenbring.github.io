@@ -44,7 +44,7 @@ College of St. Benedict / St. John's University, Spring 2018
   
 ### Assignments:
 
-  * [Final Presentation - on 5/3](https://docs.google.com/document/d/1j4xuLKDnGQbRJQoeYHsuNeN1qwu8wkzimHFN2kbuT2k/edit?usp=sharing)
+  * [Final Presentation - on 5/3](https://docs.google.com/document/d/19UUXf-ah293z68AOSYpc6_Bxl-72Ba8rkS38EyfD1gQ/edit?usp=sharing)
   * [Assignment 9 - Due 5/7](https://docs.google.com/document/d/1q2FYjLXzxHgV9Bq8NwifvI56RbAO2IE3G27v5exdnok/edit?usp=sharing)
   * [Assignment 8 - Due 5/1](https://docs.google.com/document/d/1qHdd0PPpDpN5nLxG5FzZP8Dv4lDcvks4wpOseyQ6u-Q/edit?usp=sharing)
   * [Assignment 7 - Due 4/5](https://docs.google.com/document/d/1JKsRgKEA5P42Ib-syufIuizq7U1vVNP5C6XizI3FluM/edit?usp=sharing)
