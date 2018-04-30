@@ -41,6 +41,7 @@ College of St. Benedict / St. John's University, Spring 2018
   * [Anti-Patterns](https://www.slideshare.net/ExigenServices/antipatterns-part-1)
   * [Requirements Elicitation](https://www.slideshare.net/vivacemente/requirement-elicitation)
   * [Requirements Analysis, Specification, Validation](http://r.search.yahoo.com/_ylt=A0geKVqRPN9apsgAPXEPxQt.;_ylu=X3oDMTByNXM5bzY5BGNvbG8DYmYxBHBvcwMzBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1524608274/RO=10/RU=http%3a%2f%2fcsis.pace.edu%2f~marchese%2fCS775%2fLectures%2f775L4.ppt/RK=2/RS=Ew_5fWKQHFlVf6CUUi3J4GvuuQ8-)
+  * [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
   
 ### Assignments:
 
