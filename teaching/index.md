@@ -10,7 +10,3 @@ College of St. Benedict / St. John's University, Spring 2018
 
 [More](2018-Spring-CS330/)
 
-### Misc - Job Openings
-
-  * [Coldspring](https://www.coldspringusa.com/about-coldspring/careers/) - Full-time web developer, and summer/internship web/IT (see summer help)
-  
