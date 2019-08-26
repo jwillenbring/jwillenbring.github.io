@@ -85,7 +85,7 @@ College of St. Benedict / St. John's University, Fall 2019
 
 --->
 
-* [Mountain Goat User Story overview - 8/30](https://www.mountaingoatsoftware.com/agile/user-stories)
+  * [Mountain Goat User Story overview - 8/30](https://www.mountaingoatsoftware.com/agile/user-stories)
   * [Mountain Goat User Stories for Requirements - 8/30](https://www.mountaingoatsoftware.com/articles/advantages-of-user-stories-for-requirements)
 
 <!---
