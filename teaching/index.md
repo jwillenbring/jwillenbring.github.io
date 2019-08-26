@@ -1,12 +1,12 @@
 # Teaching
 ### CS 330 - Software Engineering
-College of St. Benedict / St. John's University, Spring 2018
+College of St. Benedict / St. John's University, Fall 2019 
 
 #### Course Information:
 
   * Instructor: Jim Willenbring
-  * Time: 11:10 pm to 12:30 pm Tuesdays and Thursdays
-  * Location: Room 229 or 238, Peter Engel Science Center, St. John’s.
+  * Time: 10:40 am to 11:35 am MWF
+  * Location: Main 154, St. Ben’s.
 
-[More](2018-Spring-CS330/)
+[More](2019-Fall-CS330/)
 

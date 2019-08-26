@@ -29,10 +29,12 @@ College of St. Benedict / St. John's University, Fall 2019
 ### Class Links:
 <!---
   * [Class GitHub Organization](https://github.com/SJU-CS330-S18)
+--->
   * [Agile Manifesto](http://agilemanifesto.org/)
   * [Principles Behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
-  * [Mountain Goat Scrum overview from 1/18](https://www.mountaingoatsoftware.com/uploads/presentations/English-Redistributable-Intro-Scrum.ppt)
-  * [Mountain Goat Introduction to User Stories from 1/23](https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories)
+<!---
+* [Mountain Goat Scrum overview from 1/18](https://www.mountaingoatsoftware.com/uploads/presentations/English-Redistributable-Intro-Scrum.ppt)
+* [Mountain Goat Introduction to User Stories from 1/23](https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories)
   * [XP123 article on good stories and smart tasks from 1/23](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
   * [Design pattern introduction](https://www.slideshare.net/abhisheksagi/design-patterns-10468437)
   * [CollabNet Sprint Review Meeting video](https://www.youtube.com/watch?v=cbJinz6TieI)
@@ -72,7 +74,9 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Leading Agile Acceptance Criteria - 1/30](https://www.leadingagile.com/2014/09/acceptance-criteria/)
   * [Agile for Growth Acceptance Criteria Tips and Examples - 1/30](http://agileforgrowth.com/blog/acceptance-criteria-checklist/)
   * [Existek Acceptance Criteria Tips and Examples 1/30](https://existek.com/blog/what-are-acceptance-criteria/)
-  * [Mountain Goat User Story overview - 1/25](https://www.mountaingoatsoftware.com/agile/user-stories)
-  * [Mountain Goat User Stories for Requirements - 1/25](https://www.mountaingoatsoftware.com/articles/advantages-of-user-stories-for-requirements)
-  * [Mountain Goat Non-functional Requirements as User Stories 1/25](https://www.mountaingoatsoftware.com/blog/non-functional-requirements-as-user-stories)
+--->
+  * [Mountain Goat User Story overview - 8/30](https://www.mountaingoatsoftware.com/agile/user-stories)
+  * [Mountain Goat User Stories for Requirements - 8/30](https://www.mountaingoatsoftware.com/articles/advantages-of-user-stories-for-requirements)
+<!---
+* [Mountain Goat Non-functional Requirements as User Stories 8/30](https://www.mountaingoatsoftware.com/blog/non-functional-requirements-as-user-stories)
 --->
