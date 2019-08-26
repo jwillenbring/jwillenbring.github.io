@@ -32,7 +32,9 @@ College of St. Benedict / St. John's University, Fall 2019
 --->
   * [Agile Manifesto](http://agilemanifesto.org/)
   * [Principles Behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
+
 <!---
+
 * [Mountain Goat Scrum overview from 1/18](https://www.mountaingoatsoftware.com/uploads/presentations/English-Redistributable-Intro-Scrum.ppt)
 * [Mountain Goat Introduction to User Stories from 1/23](https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories)
   * [XP123 article on good stories and smart tasks from 1/23](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
@@ -45,10 +47,14 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Requirements Analysis, Specification, Validation](http://r.search.yahoo.com/_ylt=A0geKVqRPN9apsgAPXEPxQt.;_ylu=X3oDMTByNXM5bzY5BGNvbG8DYmYxBHBvcwMzBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1524608274/RO=10/RU=http%3a%2f%2fcsis.pace.edu%2f~marchese%2fCS775%2fLectures%2f775L4.ppt/RK=2/RS=Ew_5fWKQHFlVf6CUUi3J4GvuuQ8-)
   * [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
   * [Relaxed Intensity for High-Performing Teams](https://www.inc.com/scott-mautz/want-a-high-performing-team-create-an-atmosphere-of-relaxed-intensity-heres-how.html)
+
 --->
+
 ### Assignments:
+
 <!---
-  * [Final Presentation - on 5/1](https://docs.google.com/document/d/19UUXf-ah293z68AOSYpc6_Bxl-72Ba8rkS38EyfD1gQ/edit?usp=sharing)
+
+* [Final Presentation - on 5/1](https://docs.google.com/document/d/19UUXf-ah293z68AOSYpc6_Bxl-72Ba8rkS38EyfD1gQ/edit?usp=sharing)
   * [Assignment 9 - Due 5/7](https://docs.google.com/document/d/1q2FYjLXzxHgV9Bq8NwifvI56RbAO2IE3G27v5exdnok/edit?usp=sharing)
   * [Assignment 8 - Due 5/1](https://docs.google.com/document/d/1qHdd0PPpDpN5nLxG5FzZP8Dv4lDcvks4wpOseyQ6u-Q/edit?usp=sharing)
   * [Assignment 7 - Due 4/5](https://docs.google.com/document/d/1JKsRgKEA5P42Ib-syufIuizq7U1vVNP5C6XizI3FluM/edit?usp=sharing)
@@ -60,7 +66,9 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Assignment 3](https://docs.google.com/document/d/1H5yB4RRquzRVuXMq6Uv0JUHTwefB0l9FCqGbqpV3xIA/edit?usp=sharing)
   * [Assignment 2](https://docs.google.com/document/d/1Ycs53TRkT9QI_DIns3zQpjRV1QyF8MLNa-nli_E3AG4/edit?usp=sharing)
   * [Assignment 1](https://docs.google.com/document/d/1A3nLetRegs6evCSDBRJzgz8DtqXDmCwNA4Lo3mNs8Ok/edit?usp=sharing)
--->
+
+--->
+
 ### Assigned Reading/Viewing:
 
   (The reading/video assignment should be completed prior to the date listed.)
@@ -74,9 +82,14 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Leading Agile Acceptance Criteria - 1/30](https://www.leadingagile.com/2014/09/acceptance-criteria/)
   * [Agile for Growth Acceptance Criteria Tips and Examples - 1/30](http://agileforgrowth.com/blog/acceptance-criteria-checklist/)
   * [Existek Acceptance Criteria Tips and Examples 1/30](https://existek.com/blog/what-are-acceptance-criteria/)
+
 --->
-  * [Mountain Goat User Story overview - 8/30](https://www.mountaingoatsoftware.com/agile/user-stories)
+
+* [Mountain Goat User Story overview - 8/30](https://www.mountaingoatsoftware.com/agile/user-stories)
   * [Mountain Goat User Stories for Requirements - 8/30](https://www.mountaingoatsoftware.com/articles/advantages-of-user-stories-for-requirements)
+
 <!---
+
 * [Mountain Goat Non-functional Requirements as User Stories 8/30](https://www.mountaingoatsoftware.com/blog/non-functional-requirements-as-user-stories)
+
 --->
