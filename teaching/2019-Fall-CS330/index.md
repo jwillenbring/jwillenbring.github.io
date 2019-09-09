@@ -71,7 +71,7 @@ College of St. Benedict / St. John's University, Fall 2019
 --->
 
   * [Assignment 1, Due 8/30](https://docs.google.com/document/d/16bApEEE3z-OekdzmFvMxDyEfOEdoJCP55Lu1BaizH3Q/edit?usp=sharing)
-  * [Assignment 2, Due 9/11](https://docs.google.com/document/d/19_srRYyAVWS7BezA376_74CRRzoeMXxQ-jHVSUJA-xM/edit?usp=sharing)
+  * [Assignment 2, Due 9/13 (note change)](https://docs.google.com/document/d/19_srRYyAVWS7BezA376_74CRRzoeMXxQ-jHVSUJA-xM/edit?usp=sharing)
 
 ### Assigned Reading/Viewing:
 
