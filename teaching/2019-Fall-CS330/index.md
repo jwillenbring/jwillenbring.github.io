@@ -27,13 +27,13 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Scrum Body of Knowledge book](http://www.scrumstudy.com/SBOKGuide/download-free-buy-SBOK)
   
 ### Class Links:
-<!---
-  * [Class GitHub Organization](https://github.com/SJU-CS330-S18)
---->
+
+  * [Class GitHub Organization](https://github.com/CSBSJU-CS330-F19)
   * [Agile Manifesto](http://agilemanifesto.org/)
   * [Principles Behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
   * [Agile Basics and Comments on Principles from 8/30 - see through slide 6](https://press3.mcs.anl.gov/atpesc/files/2019/08/ATPESC_2019_Track-7_5_8-8_130pm_Willenbring-Agile_and_GitHub.pdf)
  * [Mountain Goat Scrum overview from 8/30 and 9/2](https://www.mountaingoatsoftware.com/uploads/presentations/English-Redistributable-Intro-Scrum.ppt)
+ https://github.com/CSBSJU-CS330-F19
 
 <!---
 
