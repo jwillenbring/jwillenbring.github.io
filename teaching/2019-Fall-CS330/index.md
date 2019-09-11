@@ -36,6 +36,7 @@ College of St. Benedict / St. John's University, Fall 2019
  * [Mountain Goat Scrum overview from 8/30 and 9/2](https://www.mountaingoatsoftware.com/uploads/presentations/English-Redistributable-Intro-Scrum.ppt)
   * [Requirements Elicitation from 9/9](https://www.slideshare.net/vivacemente/requirement-elicitation)
   * [Requirements Analysis, Specification, Validation from 9/11](http://csis.pace.edu/~marchese/CS775/Lectures/775L4.ppt)
+
 <!---
 
 * [Mountain Goat Introduction to User Stories from 1/23](https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories)
