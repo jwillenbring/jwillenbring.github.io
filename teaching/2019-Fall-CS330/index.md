@@ -25,6 +25,7 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Syllabus](https://docs.google.com/document/d/1aHQAjYF2F9A7HYHoO2fWsvXyY8fD9ANGAgoNhgfA7YM/edit?usp=sharing)
   * [Pro Git book](https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf)
   * [Scrum Body of Knowledge book](http://www.scrumstudy.com/SBOKGuide/download-free-buy-SBOK)
+  * [Example Product Pitch](https://docs.google.com/presentation/d/1cK4iz2XqTZsL9Bin_4V94KVZ3z6o3KoE4XzHwCBgo-U/edit?usp=sharing)
   
 ### Class Links:
 
