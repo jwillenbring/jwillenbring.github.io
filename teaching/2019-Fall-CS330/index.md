@@ -35,7 +35,8 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Agile Basics and Comments on Principles from 8/30 - see through slide 6](https://press3.mcs.anl.gov/atpesc/files/2019/08/ATPESC_2019_Track-7_5_8-8_130pm_Willenbring-Agile_and_GitHub.pdf)
  * [Mountain Goat Scrum overview from 8/30 and 9/2](https://www.mountaingoatsoftware.com/uploads/presentations/English-Redistributable-Intro-Scrum.ppt)
  https://github.com/CSBSJU-CS330-F19
-
+  * [Requirements Elicitation from 9/9](https://www.slideshare.net/vivacemente/requirement-elicitation)
+  * [Requirements Analysis, Specification, Validation from 9/11](http://csis.pace.edu/~marchese/CS775/Lectures/775L4.ppt)
 <!---
 
 * [Mountain Goat Introduction to User Stories from 1/23](https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories)
@@ -45,8 +46,6 @@ College of St. Benedict / St. John's University, Fall 2019
   * [CollabNet Sprint Retrospective Meeting video](https://www.youtube.com/watch?v=rZ8I0ATrauM)
   * [PDCA Process Checklist presentation](https://drive.google.com/open?id=1hiaJ49tem0HYaEm4ggLuAwkxgYQnEDLs)
   * [Anti-Patterns](https://www.slideshare.net/ExigenServices/antipatterns-part-1)
-  * [Requirements Elicitation](https://www.slideshare.net/vivacemente/requirement-elicitation)
-  * [Requirements Analysis, Specification, Validation](http://r.search.yahoo.com/_ylt=A0geKVqRPN9apsgAPXEPxQt.;_ylu=X3oDMTByNXM5bzY5BGNvbG8DYmYxBHBvcwMzBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1524608274/RO=10/RU=http%3a%2f%2fcsis.pace.edu%2f~marchese%2fCS775%2fLectures%2f775L4.ppt/RK=2/RS=Ew_5fWKQHFlVf6CUUi3J4GvuuQ8-)
   * [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
   * [Relaxed Intensity for High-Performing Teams](https://www.inc.com/scott-mautz/want-a-high-performing-team-create-an-atmosphere-of-relaxed-intensity-heres-how.html)
 
