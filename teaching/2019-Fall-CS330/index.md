@@ -26,6 +26,7 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Pro Git book](https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf)
   * [Scrum Body of Knowledge book](http://www.scrumstudy.com/SBOKGuide/download-free-buy-SBOK)
   * [Example Product Pitch](https://docs.google.com/presentation/d/1cK4iz2XqTZsL9Bin_4V94KVZ3z6o3KoE4XzHwCBgo-U/edit?usp=sharing)
+
   
 ### Class Links:
 
@@ -36,6 +37,7 @@ College of St. Benedict / St. John's University, Fall 2019
  * [Mountain Goat Scrum overview from 8/30 and 9/2](https://www.mountaingoatsoftware.com/uploads/presentations/English-Redistributable-Intro-Scrum.ppt)
   * [Requirements Elicitation from 9/9](https://www.slideshare.net/vivacemente/requirement-elicitation)
   * [Requirements Analysis, Specification, Validation from 9/11](http://csis.pace.edu/~marchese/CS775/Lectures/775L4.ppt)
+  * [CollabNet Backlog Refinement Meeting video - 9/20](https://www.youtube.com/watch?v=b_WeHcZcx1w)
 
 <!---
 
@@ -92,9 +94,6 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Mountain Goat User Story overview - 8/30](https://www.mountaingoatsoftware.com/agile/user-stories)
   * [Mountain Goat User Stories for Requirements - 8/30](https://www.mountaingoatsoftware.com/articles/advantages-of-user-stories-for-requirements)
   * [INVEST in User Stories and SMART Tasks - 9/9](https://agilecircle.wordpress.com/2016/05/17/invest-in-user-stories-and-smart-tasks/)
+  * [Existek Acceptance Criteria Tips and Examples 9/23](https://existek.com/blog/what-are-acceptance-criteria/)
+  * [Mountain Goat Non-functional Requirements as User Stories 9/23](https://www.mountaingoatsoftware.com/blog/non-functional-requirements-as-user-stories)
 
-<!---
-
-* [Mountain Goat Non-functional Requirements as User Stories 8/30](https://www.mountaingoatsoftware.com/blog/non-functional-requirements-as-user-stories)
-
---->
