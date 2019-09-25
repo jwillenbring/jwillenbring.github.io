@@ -26,6 +26,10 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Pro Git book](https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf)
   * [Scrum Body of Knowledge book](http://www.scrumstudy.com/SBOKGuide/download-free-buy-SBOK)
   * [Example Product Pitch](https://docs.google.com/presentation/d/1cK4iz2XqTZsL9Bin_4V94KVZ3z6o3KoE4XzHwCBgo-U/edit?usp=sharing)
+  * How to sync your GitHub Fork
+    * [1. Configure a remote (1 time)](https://help.github.com/en/articles/configuring-a-remote-for-a-fork)
+    * [2. Sync your fork (every time you want to update your fork's master)](https://help.github.com/en/articles/syncing-a-fork)
+    * Note: You can also add classmate's forks as remotes for collaborative efforts as well as sync branches other than master.
 
   
 ### Class Links:
