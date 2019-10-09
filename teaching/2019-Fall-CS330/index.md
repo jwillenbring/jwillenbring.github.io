@@ -42,6 +42,11 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Requirements Elicitation from 9/9](https://www.slideshare.net/vivacemente/requirement-elicitation)
   * [Requirements Analysis, Specification, Validation from 9/11](http://csis.pace.edu/~marchese/CS775/Lectures/775L4.ppt)
   * [CollabNet Backlog Refinement Meeting video - 9/20](https://www.youtube.com/watch?v=b_WeHcZcx1w)
+  * Design patterns
+    * [Overview presentation](https://www.slideshare.net/abhisheksagi/design-patterns-10468437)
+    * [Singleton](https://www.geeksforgeeks.org/singleton-design-pattern/)
+    * [Facade](https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-facade-pattern-16e3d2f1bfb6)
+    * [Iterator](https://www.tutorialspoint.com/design_pattern/iterator_pattern.htm)
 
 <!---
 
