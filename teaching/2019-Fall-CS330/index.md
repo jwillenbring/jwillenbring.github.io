@@ -47,14 +47,13 @@ College of St. Benedict / St. John's University, Fall 2019
     * [Singleton](https://www.geeksforgeeks.org/singleton-design-pattern/)
     * [Facade](https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-facade-pattern-16e3d2f1bfb6)
     * [Iterator](https://www.tutorialspoint.com/design_pattern/iterator_pattern.htm)
+  * [CollabNet Sprint Review Meeting video](https://www.youtube.com/watch?v=cbJinz6TieI)
+  * [CollabNet Sprint Retrospective Meeting video](https://www.youtube.com/watch?v=rZ8I0ATrauM)
 
 <!---
 
 * [Mountain Goat Introduction to User Stories from 1/23](https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories)
   * [XP123 article on good stories and smart tasks from 1/23](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
-  * [Design pattern introduction](https://www.slideshare.net/abhisheksagi/design-patterns-10468437)
-  * [CollabNet Sprint Review Meeting video](https://www.youtube.com/watch?v=cbJinz6TieI)
-  * [CollabNet Sprint Retrospective Meeting video](https://www.youtube.com/watch?v=rZ8I0ATrauM)
   * [PDCA Process Checklist presentation](https://drive.google.com/open?id=1hiaJ49tem0HYaEm4ggLuAwkxgYQnEDLs)
   * [Anti-Patterns](https://www.slideshare.net/ExigenServices/antipatterns-part-1)
   * [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
