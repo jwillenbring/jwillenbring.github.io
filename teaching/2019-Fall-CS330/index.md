@@ -30,6 +30,13 @@ College of St. Benedict / St. John's University, Fall 2019
     * [1. Configure a remote (1 time)](https://help.github.com/en/articles/configuring-a-remote-for-a-fork)
     * [2. Sync your fork (every time you want to update your fork's master)](https://help.github.com/en/articles/syncing-a-fork)
     * Note: You can also add classmate's forks as remotes for collaborative efforts as well as sync branches other than master.
+  * How to create and use a new feature branch (make sure your master branch on your fork is up-to-date)
+    * From your fork on GitHub, create a new branch based on the master branch
+      * From your fork's GitHub homepage, click on "Branch: master", type your new <branch_name> in the text field and hit enter
+    * From the command line, checkout your new branch
+      * git checkout --track origin/<branch_name>
+    * Develop locally on this branch.
+    * Push your changes when done, and issue a pull request back to the master branch of the main repository (not your fork)
 
   
 ### Class Links:
