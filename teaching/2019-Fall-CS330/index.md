@@ -56,6 +56,9 @@ College of St. Benedict / St. John's University, Fall 2019
     * [Iterator](https://www.tutorialspoint.com/design_pattern/iterator_pattern.htm)
   * [CollabNet Sprint Review Meeting video](https://www.youtube.com/watch?v=cbJinz6TieI)
   * [CollabNet Sprint Retrospective Meeting video](https://www.youtube.com/watch?v=rZ8I0ATrauM)
+  * [Software anti-patterns (we covered the first 43 slides)](https://www.slideshare.net/ExigenServices/antipatterns-part-1)
+  * [Software anti-patterns 2 (we started on slide 28)](https://www.slideshare.net/ExigenServices/antipatterns-part-2)
+  * [Epic, Story, Task example](https://scrumandkanban.co.uk/theme-epic-story-task/)
 
 <!---
 
