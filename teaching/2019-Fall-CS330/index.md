@@ -94,6 +94,10 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Assignment 2, Due 9/13 (note change)](https://docs.google.com/document/d/19_srRYyAVWS7BezA376_74CRRzoeMXxQ-jHVSUJA-xM/edit?usp=sharing)
   * [Assignment 4, Due 10/25](https://docs.google.com/document/d/1cGbXBpPqqIosuqfzvd5mMZRAs9hMXuvzE8gHD_hplbU/edit?usp=sharing)
   * [Assignment 5, Due 11-15](https://docs.google.com/document/d/1xppkmeF8kHQATXsK8jDZISii9TGjnjJSE6rWIRwhqkA/edit?usp=sharing)
+  * [Assignment 6, Design Pattern, Due 12/6](https://docs.google.com/document/d/11TmgaX58aGXBAGnodDGsRfOsq424sBgAIZoHpt6zG5E/edit?usp=sharing)
+  * [Assignment 7, Third Sprint Reflection, Due 12/6](https://docs.google.com/document/d/1NiUeEfDA_YqfqHR4nTdYJ6ObhWjLG9sBaHukVajMJ_A/edit?usp=sharing)
+  * [Assignment 8, Final Paper, Due 12/10](https://docs.google.com/document/d/1b_MZ2cfwqkDvpNLZJ4N2UjfTB4j70XYpl-wPgKj-glc/edit?usp=sharing)
+  * [Final Demo/Third Sprint Review - 12/6](https://docs.google.com/document/d/16T0eczQLfumzoWKX9pDIYqr8Fusy9qWUwyMQ5S8NO0g/edit?usp=sharing)
 
 ### Assigned Reading/Viewing:
 
