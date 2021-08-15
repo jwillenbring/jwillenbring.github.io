@@ -21,7 +21,7 @@ College of St. Benedict / St. John's University, Fall 2019
   * Usually when I am in my office with the door open
 
 ### Class Resources:
-
+<!---
   * [Syllabus](https://docs.google.com/document/d/1aHQAjYF2F9A7HYHoO2fWsvXyY8fD9ANGAgoNhgfA7YM/edit?usp=sharing)
   * [Pro Git book](https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf)
   * [Scrum Body of Knowledge book](http://www.scrumstudy.com/SBOKGuide/download-free-buy-SBOK)
@@ -37,10 +37,10 @@ College of St. Benedict / St. John's University, Fall 2019
       * git checkout --track origin/\<branch_name\>
     * Develop locally on this branch.
     * Push your changes when done, and issue a pull request back to the master branch of the main repository (not your fork)
-
+--->
   
 ### Class Links:
-
+<!---
   * [Class GitHub Organization](https://github.com/CSBSJU-CS330-F19)
   * [Agile Manifesto](http://agilemanifesto.org/)
   * [Principles Behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
@@ -60,7 +60,6 @@ College of St. Benedict / St. John's University, Fall 2019
   * [Software anti-patterns 2 (we started on slide 28)](https://www.slideshare.net/ExigenServices/antipatterns-part-2)
   * [Epic, Story, Task example](https://scrumandkanban.co.uk/theme-epic-story-task/)
 
-<!---
 
 * [Mountain Goat Introduction to User Stories from 1/23](https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories)
   * [XP123 article on good stories and smart tasks from 1/23](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
