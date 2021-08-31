@@ -24,6 +24,7 @@ College of St. Benedict / St. John's University, Fall 2021
   * [Syllabus](https://docs.google.com/document/d/1Wg7EKxIuVGdE-loDs-Ds8xIELEzQugAa03ExmUuX5LE/edit?usp=sharing)
   * [Pro Git book](https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf)
   * [Scrum Body of Knowledge book](http://www.scrumstudy.com/SBOKGuide/download-free-buy-SBOK)
+
 <!---
 
 * [Example Product Pitch](https://docs.google.com/presentation/d/1cK4iz2XqTZsL9Bin_4V94KVZ3z6o3KoE4XzHwCBgo-U/edit?usp=sharing)
@@ -75,6 +76,7 @@ College of St. Benedict / St. John's University, Fall 2021
 
 ### Assignments:
 
+See Canvas
 <!---
 
 * [Final Presentation - on 5/1](https://docs.google.com/document/d/19UUXf-ah293z68AOSYpc6_Bxl-72Ba8rkS38EyfD1gQ/edit?usp=sharing)
