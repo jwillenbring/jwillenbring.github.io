@@ -11,8 +11,7 @@ College of St. Benedict / St. John's University, Spring 2018
 
   * X2873 (SJU Office)
   * jwillenbr001 (SJU email username)
-  * 505-238-8744 (Mobile Phone)
-
+ 
 ### Office Hours:
 
   * Tuesday 1:00-1:55 pm (please verify before making a trip)
