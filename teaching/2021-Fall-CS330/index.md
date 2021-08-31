@@ -39,11 +39,14 @@ College of St. Benedict / St. John's University, Fall 2021
       * git checkout --track origin/\<branch_name\>
     * Develop locally on this branch.
     * Push your changes when done, and issue a pull request back to the master branch of the main repository (not your fork)
+
 --->
 
   
 ### Class Links:
+
 <!---
+
   * [Class GitHub Organization](https://github.com/CSBSJU-CS330-F19)
   * [Agile Manifesto](http://agilemanifesto.org/)
   * [Principles Behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
@@ -77,6 +80,7 @@ College of St. Benedict / St. John's University, Fall 2021
 ### Assignments:
 
 See Canvas
+
 <!---
 
 * [Final Presentation - on 5/1](https://docs.google.com/document/d/19UUXf-ah293z68AOSYpc6_Bxl-72Ba8rkS38EyfD1gQ/edit?usp=sharing)
@@ -101,6 +105,7 @@ See Canvas
   * [Assignment 7, Third Sprint Reflection, Due 12/6](https://docs.google.com/document/d/1NiUeEfDA_YqfqHR4nTdYJ6ObhWjLG9sBaHukVajMJ_A/edit?usp=sharing)
   * [Assignment 8, Final Paper, Due 12/10](https://docs.google.com/document/d/1b_MZ2cfwqkDvpNLZJ4N2UjfTB4j70XYpl-wPgKj-glc/edit?usp=sharing)
   * [Final Demo/Third Sprint Review - 12/6](https://docs.google.com/document/d/16T0eczQLfumzoWKX9pDIYqr8Fusy9qWUwyMQ5S8NO0g/edit?usp=sharing)
+
 --->
 
 ### Assigned Reading/Viewing:
@@ -108,6 +113,7 @@ See Canvas
   (The reading/video assignment should be completed prior to the date listed.)
 
 <!---
+
 * [CollabNet Sprint Planning Meeting video - 3/15](https://www.youtube.com/watch?v=wPvG9NZNUa4)
   * [CollabNet Backlog Refinement Meeting video - 3/13](https://www.youtube.com/watch?v=b_WeHcZcx1w)
   * [Splitting a Story into Tasks - 2/20](http://agilebutpragmatic.blogspot.com/2012/04/splitting-story-into-tasks-how-to-write.html)
@@ -124,4 +130,5 @@ See Canvas
   * [INVEST in User Stories and SMART Tasks - 9/9](https://agilecircle.wordpress.com/2016/05/17/invest-in-user-stories-and-smart-tasks/)
   * [Existek Acceptance Criteria Tips and Examples 9/23](https://existek.com/blog/what-are-acceptance-criteria/)
   * [Mountain Goat Non-functional Requirements as User Stories 9/23](https://www.mountaingoatsoftware.com/blog/non-functional-requirements-as-user-stories)
+
 --->
