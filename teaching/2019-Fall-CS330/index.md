@@ -11,8 +11,7 @@ College of St. Benedict / St. John's University, Fall 2019
 
   * X5536 (CSB Office)
   * jwillenbr001 (SJU email username)
-  * 505-238-8744 (Mobile Phone)
-
+ 
 ### Office Hours:
 
   * Monday & Friday 11:30 am-12:00 pm
