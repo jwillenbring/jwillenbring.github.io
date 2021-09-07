@@ -44,12 +44,12 @@ College of St. Benedict / St. John's University, Fall 2021
   
 ### Class Links:
 
+  * [Class GitHub Organization](https://github.com/CSBSJU-CS330-F21)
   * [Agile Manifesto](http://agilemanifesto.org/)
   * [Principles Behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
 
 <!---
 
-  * [Class GitHub Organization](https://github.com/CSBSJU-CS330-F19)
   * [Agile Basics and Comments on Principles from 8/30 - see through slide 6](https://press3.mcs.anl.gov/atpesc/files/2019/08/ATPESC_2019_Track-7_5_8-8_130pm_Willenbring-Agile_and_GitHub.pdf)
  * [Mountain Goat Scrum overview from 8/30 and 9/2](https://www.mountaingoatsoftware.com/uploads/presentations/English-Redistributable-Intro-Scrum.ppt)
   * [Requirements Elicitation from 9/9](https://www.slideshare.net/vivacemente/requirement-elicitation)
@@ -112,6 +112,9 @@ See Canvas
 
   (The reading/video assignment should be completed prior to the date listed.)
 
+  * [Mountain Goat User Story overview - 9/9](https://www.mountaingoatsoftware.com/agile/user-stories)
+  * [Mountain Goat User Stories for Requirements - 9/9](https://www.mountaingoatsoftware.com/articles/advantages-of-user-stories-for-requirements)
+
 <!---
 
 * [CollabNet Sprint Planning Meeting video - 3/15](https://www.youtube.com/watch?v=wPvG9NZNUa4)
@@ -125,8 +128,6 @@ See Canvas
 
 
 
-  * [Mountain Goat User Story overview - 8/30](https://www.mountaingoatsoftware.com/agile/user-stories)
-  * [Mountain Goat User Stories for Requirements - 8/30](https://www.mountaingoatsoftware.com/articles/advantages-of-user-stories-for-requirements)
   * [INVEST in User Stories and SMART Tasks - 9/9](https://agilecircle.wordpress.com/2016/05/17/invest-in-user-stories-and-smart-tasks/)
   * [Existek Acceptance Criteria Tips and Examples 9/23](https://existek.com/blog/what-are-acceptance-criteria/)
   * [Mountain Goat Non-functional Requirements as User Stories 9/23](https://www.mountaingoatsoftware.com/blog/non-functional-requirements-as-user-stories)
